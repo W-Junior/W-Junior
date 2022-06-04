@@ -1,8 +1,7 @@
 ## Olá, eu sou Washington Junior 👋
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando HTML5,CSS3
-- 😄 ele/dele
+- 🔭 Futuro Programador
+- 🌱 Estudando HTML5,CSS3,
 
 <div>
   <a href="https://github.com/w-junior">
