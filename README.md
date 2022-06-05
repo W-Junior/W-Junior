@@ -1,7 +1,7 @@
 ## Olá, eu sou Washington Junior 👋
 
 - 🔭 Futuro Programador
-- 🌱 Estudando HTML5,CSS3,
+- 🌱 Estudando Analise e Desenvovimento de Sistemas
 
 <div>
   <a href="https://github.com/w-junior">
