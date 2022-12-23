@@ -31,3 +31,5 @@
   </div>
 
 ![Snake gif](https://github.com/W-Junior/W-Junior/blob/output/github-contribution-grid-snake.svg)
+
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=W-Junior&repo=W-Junior&theme=react)](https://github.com/W-Junior/W-Junior)
